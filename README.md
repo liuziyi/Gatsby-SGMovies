@@ -136,5 +136,3 @@ module.exports = {
   - Inline vs Inline-block (https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
 
   ![](images/inlineVSinline-block.png)
-
-## Netlify
