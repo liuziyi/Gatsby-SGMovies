@@ -3,7 +3,7 @@ const path = require('path');
 exports.createPages = ({boundActionCreators, graphql}) => {
   const { createPage } = boundActionCreators
 
-  const movieTemplate = path.resolve('src/pages/templates/movie-details.js');
+  const movieTemplate = path.resolve('src/templates/movie.js');
 
   return graphql(`
     {

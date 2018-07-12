@@ -4,6 +4,7 @@
 - [Gatsby Docs: Tutorials, Part 3](https://www.gatsbyjs.org/tutorial/part-three/)
 - [Gatsby Docs: Tutorials, Part 2](https://www.gatsbyjs.org/tutorial/part-two/#typographyjs)
 - [YouTube: Gatsby JS Crash Course, Traversy Media](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
+- [Gatsby Docs: Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)(templates)
 
 ## New Project
 - Create: gatsby new [name_of_project] https://github.com/gatsbyjs/gatsby-starter-hello-world
@@ -129,7 +130,7 @@ module.exports = {
   - Create the actual pages for the Markdown files
   - Use the createPages Gatsby API to create the Markdown pages. To implement an API, export a function with the name of the API from gatsby-node.js
   - Create gatsby-node.js at the root the site
-  - Template: Create a page template component for movie details at src/pages/templates/movie-details.js
+  - Template: Create a page template component for movie details at src/templates/movie.js
   - Add the following code to gatsby-node.js:
 
 ## Notes
