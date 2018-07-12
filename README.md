@@ -1,8 +1,8 @@
 # Gatsby: SG Movies
 
 ## Links:
-- [Gatsby Docs: Tutorials, Part 3](https://www.gatsbyjs.org/tutorial/part-three/)
-- [Gatsby Docs: Tutorials, Part 2](https://www.gatsbyjs.org/tutorial/part-two/#typographyjs)
+- [Gatsby Tutorial: Part 3](https://www.gatsbyjs.org/tutorial/part-three/)
+- [Gatsby Tutorial: Part 2](https://www.gatsbyjs.org/tutorial/part-two/#typographyjs)
 - [YouTube: Gatsby JS Crash Course, Traversy Media](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
 - [Gatsby Docs: Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)(templates)
 
@@ -132,6 +132,9 @@ module.exports = {
   - Create gatsby-node.js at the root the site
   - Template: Create a page template component for movie details at src/templates/movie.js
   - Add the following code to gatsby-node.js:
+
+## Netlify
+- https://sgmovies.netlify.com
 
 ## Notes
   - Inline vs Inline-block (https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
